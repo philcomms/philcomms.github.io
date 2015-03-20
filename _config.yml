@@ -1,27 +1,24 @@
 ### Site info:
-title: Dev blog
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Phil Head
-email: phil@schoolcomms.co.uk
-description: 
-keywords: 
-baseurl: 
-url: 
+title:"Dev blog"
+author:"Phil Head"
+email:"phil@schoolcomms.co.uk"
+baseurl:""
+url:""
 
 
 ### Personal info and site tools info:
-twitter_username: 
-github_username:  philcomms
-disqus_shortname: 
-favicon:
-aboutme: 
-aboutme_photo:
+twitter_username:""
+github_username:"philcomms"
+disqus_shortname:""
+favicon:""
+aboutme:""
+aboutme_photo:""
 
 
 ### Site setting:
-ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+ShowContactInfo:"False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column:"two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale:"en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 
     en:
@@ -54,7 +51,7 @@ default_locale: "en" # blog sidebar language set, only include: English(en) and 
 
 ### your Blogroll info, only name can shown on the page.
 
-Blogroll:
+Blogroll:""
 
 ### Build settings
 markdown: redcarpet
